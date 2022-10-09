@@ -4,14 +4,16 @@
 
 <hr>
 
-[h1](h1.md)
+[h1: Become a hacker!](h1.md)
 
-[h2](h2.md) 
+[h2: Oh, wasp!](h2.md) 
 
-[h3](h3.md) 
+[h3: Tricks, Tips and Playbooks](h3.md) 
 
-[h4](h4.md) 
+[h4: Intelligence gap](h4.md) 
 
-[h5](h5.md) 
+[h5: Encryption](h5.md)
 
-[h6](h6.md) 
+[h6: Free ticket](h6.md) 
+
+[h7: Science, delivered](h7.md)
